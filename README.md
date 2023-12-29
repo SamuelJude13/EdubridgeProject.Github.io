@@ -1,7 +1,5 @@
 # Bus Management System
 
-![Project Logo](path/to/your/logo.png)
-
  Overview
 
 The Bus Management System is a comprehensive solution for managing bus operations, scheduling, and tracking in a transportation network. This project is built using Spring MVC, Java, HTML, CSS, Angular, and integrates features such as Twilio for communication and email registration for user authentication.
